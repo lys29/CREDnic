@@ -1,0 +1,108 @@
+.month {
+    padding: 70px 25px;
+    width: 849px;
+    background: #303030;
+    text-align: center;
+    height: 307px;
+}
+  
+.month ul {
+    margin: 0;
+    padding: 0;
+}
+  
+.month ul li {
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+  
+.month .prev {
+    float: left;
+    padding-top: 10px;
+}
+  
+.month .next {
+    float: right;
+    padding-top: 10px;
+}
+  
+.weekdays {
+    margin: 0;
+    padding: 10px 0;
+    background-color: #A3A3A3;
+    display: flex;
+}
+  
+.weekdays li {
+    display: inline-block;
+    width: 13.6%;
+    color: black;
+    text-align: center;
+}
+  
+.days {
+    padding: 10px 0;
+    background: #eee;
+    margin: 0;
+    width: 848px;
+    height: 217px;
+}
+  
+.days li {
+    list-style-type: none;
+    display: inline-block;
+    width: 13.6%;
+    text-align: center;
+    margin-bottom: 5px;
+    font-size:15px;
+    color: black;
+    margin-top: 10px;
+}
+  
+.days li .active {
+    padding: 5px;
+    background: #1abc9c;
+    color: white !important
+}
+
+.span{
+    font-size:18px;
+}
+
+.spread {
+    display: flex;
+    justify-content: space-between;
+    background-color: #D8D8D8;
+    background-image: url('/images/Calback.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 900px;
+    color: black;
+    align-items: top;
+}
+
+.left {
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.left h1 {
+    margin-left: 30px;
+    font-size: 64px;
+}
+
+.right {
+    margin-right: 100px;
+    margin-top: 100px;
+}
+
+.month p {
+    font-size: 32px;
+}
+
+.mon h6 {
+    font-size: 24px;
+    margin-top: -60px;
+}

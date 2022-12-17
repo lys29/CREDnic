@@ -1,0 +1,131 @@
+.container {
+    background-color: gainsboro;
+    background-image: url('/images/sc.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    justify-content: space-between;
+    height:800px;
+    color:black;
+    border: 1px solid transparent;
+}
+
+.container input{
+    float: right;
+    margin-right: 30px;
+    width: 240px;
+    height: 47px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: transparent;
+}
+
+.container h1{
+    width: 500px;
+    height: 100px;
+}
+
+.right Button{
+    background-color: #B81212;
+    font-size: 18px;
+    width: 102px;
+    height: 48px;
+    border-radius: 0px;
+    margin-left: 70px;
+    margin-top: 13px;
+}
+
+.right {
+    margin-top: -30px;
+    margin-left: 100px;
+    height: 463px;
+    width:1287px;
+    border: 2px solid black;
+}
+
+.report h1 {
+    font-size: 20px;
+    color: black;
+}
+
+.report ul {
+    margin: 0;
+    padding: 0;
+}
+  
+.right ul li {
+    color: black;
+    font-size: 20px;
+    height: 341px;
+}
+
+.bar {
+    margin: 0;
+    padding: 10px 0;
+    display: flex;
+    height: 100px;
+    width:1287px;
+    margin-left: -45px;
+    border-bottom: 2px solid black;
+    margin-top: 10px;
+    border-top: 2px solid black;
+}
+  
+.bar li {
+    list-style-type: none;
+    display: inline-block;
+    width: 40%;
+    color: white;
+    margin-left: 30px;
+    font-size: 14px;
+    margin-right: -4px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-right: 2px solid black;
+}
+
+.act{
+    border-right: 0px;
+}
+
+.board {
+    border-top: 2px solid black;
+}
+
+.board ul li {
+    height: 340px;
+    margin-top: -10px;
+}
+
+.attend {
+    margin: 0;
+    padding: 10px 0;
+    display: flex;
+    width: 1287px;
+    height: 81px;
+    margin-left: -40px;
+    border-bottom: 2px solid black;
+}
+
+.attend li {
+    list-style-type: none;
+    display: inline-block;
+    width: 40%;
+    color: white;
+    align-items: center;
+    margin-left: 10px;
+    margin-top: 5px;
+    font-size: 14px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    background-color: #BDBABA;
+    width: 1283px;
+    height: 50px;
+    margin-bottom: -15px;
+}
+
+.board h6 {
+    font-size: 22px;
+}
