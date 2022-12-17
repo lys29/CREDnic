@@ -1,6 +1,6 @@
 .container {
     background-color: gainsboro;
-    background-image: url('/images/rllogin.png');
+    background-image: url('../images/rllogin.png');
     background-repeat: no-repeat;
     background-position: right;
     align-items: stretch;

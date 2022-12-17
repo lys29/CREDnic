@@ -1,6 +1,6 @@
 .container {
     background-color: gainsboro;
-    background-image: url('/images/sc.png');
+    background-image: url('../images/sc.png');
     background-repeat: no-repeat;
     background-position: left;
     justify-content: space-between;

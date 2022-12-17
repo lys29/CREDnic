@@ -1,6 +1,6 @@
 .container {
     background-color: gainsboro;
-    background-image: url('/images/talk.png');
+    background-image: url('../images/talk.png');
     background-repeat: no-repeat;
     background-position: left;
     align-items: stretch;

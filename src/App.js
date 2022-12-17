@@ -25,7 +25,7 @@ import Schedule from './pages/Schedule';
 import Schedule1 from './pages/Schedule1';
 import Ser from './pages/Ser';
 import Ser1 from './pages/Ser1';
-import Login from '../component1/Login.jsx'
+import Login from './component1/Login.jsx'
 
 function App() {
   return (

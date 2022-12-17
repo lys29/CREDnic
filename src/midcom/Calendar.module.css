@@ -75,7 +75,7 @@
     display: flex;
     justify-content: space-between;
     background-color: #D8D8D8;
-    background-image: url('/images/Calback.png');
+    background-image: url('../images/Calback.png');
     background-repeat: no-repeat;
     background-position: right;
     height: 900px;
