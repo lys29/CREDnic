@@ -1,0 +1,25 @@
+.container {
+    background-color: gainsboro;
+    background-image: url('/images/Clinic.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    align-items: stretch;
+    align-items: center;
+    justify-content: space-between;
+    height:900px;
+    margin-bottom:20px;
+    border: 2px solid gainsboro;
+    color:black;
+}
+
+.con span {
+    color:#5D1C1C;
+}
+
+.con h1 {
+    font-size: 50px;
+}
+
+.con {
+    border:100px solid transparent;
+}

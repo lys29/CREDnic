@@ -1,0 +1,89 @@
+.container {
+    background-color: gainsboro;
+    background-image: url('/images/talk.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    align-items: stretch;
+    justify-content: space-between;
+    height:800px;
+    color:black;
+    margin-top: -50px;
+}
+
+.con {
+    margin-left: 70px;
+}
+
+.container ul{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.container ul li {
+    list-style:none;
+    width: 1330px;
+    height: 711px;
+    margin: 40px 40px 0px 55px;
+    background-color: #6A6A6A;
+    text-align: left;
+    border-radius: 80px;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.bottom {
+    border: 50px solid transparent;
+    margin-top: -100px;
+    color: white;
+    font-size: 20px;
+}
+
+.top {
+    border: 50px solid transparent;
+    display: flex;
+    color: white;
+    font-size: 20px;
+}
+
+.top input {
+    background-color: transparent;
+    width: 1120px;
+    height: 30px;
+    margin-left: -1120px;
+    margin-top: 19px;
+    font-size: 20px;
+}
+
+.top hr {
+    width: 1200px;
+}
+
+.bottom textarea {
+    background-color: transparent;
+    width: 1200px;
+    height: 400px;
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+.container h3 {
+    font-size: 32px;
+}
+
+.last {
+    display: flex;
+}
+
+.s button {
+    background-color: #33A9EC;
+    font-size: 20px;
+    color: white;
+    width: 127px;
+    height: 53px;
+    border-radius: 30px;
+}
+
+.last img {
+    margin-left: 50px;
+}

@@ -1,0 +1,51 @@
+.container {
+    background-color: #5D1C1C;
+    align-items: stretch;
+    align-items: center;
+    justify-content: space-between;
+    height:3800px;
+    margin-bottom:20px;
+    border: 2px solid #5D1C1C;
+    color:black;
+}
+
+.container ul{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.container ul li {
+    list-style:none;
+    width: 1320px;
+    height: 597px;
+    margin: 40px 40px 0px 55px;
+    background-color: #A4805D;
+    text-align: left;
+    border-radius: 80px;
+    justify-content: space-between;
+    margin-top: 200px;
+    border:50px solid transparent;
+}
+
+.oral {
+    display: flex;
+    margin-top: -70px;
+}
+
+.container p {
+    font-size: 18px;
+}
+
+.container h5 {
+    margin-top: 20px;
+    font-size: 40px;
+}
+
+.container hr {
+    height:68px;
+    width: 1600px;
+    margin-top: 100px;
+    margin-left: 0px;
+    background-color: #A4805D;
+}

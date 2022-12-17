@@ -1,0 +1,108 @@
+.container {
+    background-color: gainsboro;
+    background-image: url('/images/talk.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    align-items: stretch;
+    justify-content: space-between;
+    height:800px;
+    color:black;
+    border: 1px solid transparent;
+}
+
+
+.container ul{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.container ul li {
+    list-style:none;
+    width: 623px;
+    height: 750px;
+    margin: 40px 40px 0px 55px;
+    background-color: #6A6A6A;
+    text-align: left;
+    border-radius: 80px;
+    justify-content: space-between;
+    margin-left: 500px;
+    border: 30px solid transparent;
+}
+
+.con {
+    color: white;
+}
+
+.top {
+    font-size: 32px;
+}
+
+.end {
+    display:flex;
+    justify-content: space-between;
+}
+
+.top input[type=Name] {
+    width: 252px;
+    height:45px;
+    border-radius: 50px;
+    background-color: transparent;
+    border: 3px solid #33A9EC;
+    font-size: 25px;
+}
+
+.top input[type=Name1] {
+    width: 252px;
+    height:45px;
+    border-radius: 50px;
+    background-color: transparent;
+    border: 3px solid #33A9EC;
+    margin-left: 50px;
+    font-size: 25px;
+}
+
+.top input[type=MPass] {
+    border-radius: 50px;
+    background-color: transparent;
+    border: 3px solid #33A9EC;
+    font-size: 25px;
+    width: 539px;
+    height: 45px;
+    margin-top: 30px;
+}
+
+.top input[type=Day] {
+    border-radius: 50px;
+    background-color: transparent;
+    border: 3px solid #33A9EC;
+    font-size: 25px;
+    width: 334px;
+    height: 45px;
+    margin-top: 30px;
+}
+
+.button {
+    display: flex;
+    margin-top: 90px;
+    justify-content: space-between;
+}
+
+.first Button {
+    color: white;
+    font-size: 20px;
+}
+
+.second Button {
+    background-color: #33A9EC;
+    color:white;
+    font-size: 24px;
+    width: 127px;
+    height: 53px;
+    border-radius: 30px;
+}
+
+.top p {
+    font-size: 20px;
+    margin-top: 30px;
+}

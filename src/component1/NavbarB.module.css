@@ -1,0 +1,33 @@
+.container {
+    background-color: #A4805D;
+    align-items: stretch;
+    border:200px solid #A4805D;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    overflow: hidden;
+    border-width: 0ch;
+    list-style: none;
+}
+
+.container ul {
+    list-style: none;
+    display:flex;
+    align-items: center;
+    float: left;
+    color: white;
+}
+
+.prior {
+    width: 168px;
+    height: 75px;
+    color: black;
+    background-color: #F8BF87;
+    border-radius: 13px;
+    font-size: 24px;
+    border: 10px solid #F8BF87;
+}
+
+.main {
+    margin-right: 250px;
+}
