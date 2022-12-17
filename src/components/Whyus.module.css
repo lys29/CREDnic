@@ -1,0 +1,30 @@
+.container {
+    background-color: white;
+    border:200px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height:500px;
+    position:relative;
+    color: black;
+}
+
+.serve {
+    margin-left: 100px;
+}
+
+.h2 {
+    font-size: 35px;
+}
+
+.h4 {
+    font-size: 18px;
+}
+
+.p {
+    font-size: 10px;
+}
+
+.ul li {
+    font-size: 20px;
+}

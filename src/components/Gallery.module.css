@@ -1,0 +1,37 @@
+.container {
+    background-color: #A4805D;
+    border:190px solid #A4805D;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height:1000px;
+    position:relative;
+    color: #A4805D;
+    margin-top: 1px;
+}
+.con1 {
+    background-color: white;
+    border:150px solid white;
+    align-items: center;
+    height: fit-content;
+    position:relative;
+    color: black;
+}
+
+.con1 hr {
+    border-top: 5px solid black; 
+    height: 100px;
+    width: 150%;
+    overflow-x: hidden;
+    margin-left: -200px;
+}
+
+.con1 h1 {
+    font-size: 64px;
+    text-decoration: underline;
+    text-decoration-color: #F63806;
+}
+
+.third {
+    margin-left: -100px;
+}

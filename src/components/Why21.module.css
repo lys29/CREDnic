@@ -1,0 +1,19 @@
+.container {
+    background-color: white;
+    border:250px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height:100px;
+    position:relative;
+    color: black;
+}
+
+.container h4{
+    font-size: 20px;
+    font-family: Italiana, sans-serif;
+}
+
+.con {
+    margin-top: 21px;
+}
