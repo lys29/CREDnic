@@ -3,7 +3,7 @@
     width: 849px;
     background: #303030;
     text-align: center;
-    height: 307px;
+    height: 206px;
 }
   
 .month ul {
@@ -46,12 +46,11 @@
     padding: 10px 0;
     background: #eee;
     margin: 0;
-    width: 848px;
+    width: 898px;
     height: 217px;
 }
   
 .days li {
-    list-style-type: none;
     display: inline-block;
     width: 13.6%;
     text-align: center;
@@ -105,4 +104,8 @@
 .mon h6 {
     font-size: 24px;
     margin-top: -60px;
+}
+
+.mon {
+    margin-top: 80px;
 }

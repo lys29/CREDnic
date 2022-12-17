@@ -1,6 +1,7 @@
 import styles from './Appoint1.module.css';
 import Swal from 'sweetalert2';
 import schedlogo from '../images/schedlogo.png';
+import Navbar1G from '../components/Navbar1G';
 
 const Appoint1 = () =>{
     const Submit = () => {
@@ -12,6 +13,9 @@ const Appoint1 = () =>{
     }
     return(
         <div>
+            <div>
+                <Navbar1G />
+            </div>
             <div className={styles.container}>
             <center><h1>Book Appointment</h1></center>
                <div className={styles.right}>

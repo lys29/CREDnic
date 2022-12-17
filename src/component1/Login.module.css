@@ -13,6 +13,7 @@
 
 .con h2 {
     font-size: 48px;
+    color: white;
 }
 
 .con input {
@@ -22,7 +23,7 @@
     border-radius: 80px;
     border: 2px solid #1E45A9;
     margin-top: 30px;
-    color: black;
+    color: white;
     font-size: 30px;
 }
 
@@ -43,6 +44,7 @@
 
 .con p {
     font-size: 20px;
+    color: white;
 }
 
 .last Button {

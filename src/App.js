@@ -26,6 +26,7 @@ import Schedule1 from './pages/Schedule1';
 import Ser from './pages/Ser';
 import Ser1 from './pages/Ser1';
 import Login from './component1/Login.jsx'
+import Appoint1 from './midcom/Appoint1';
 
 function App() {
   return (
@@ -57,6 +58,7 @@ function App() {
         <Route path="/Ser" element={<Ser/>} />
         <Route path="/Ser1" element={<Ser1/>} />
         <Route path="/Log" element={<Login/>} />
+        <Route path="/Ap1" element={<Appoint1 />} />
       </Routes>
     </BrowserRouter>
     </div>

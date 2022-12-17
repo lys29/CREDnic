@@ -2,10 +2,11 @@
     background-color: gainsboro;
     background-image: url('../images/talk.png');
     background-repeat: no-repeat;
-    background-position: left;
+    background-position-x: left;
+    background-position-y: bottom;
     align-items: stretch;
     justify-content: space-between;
-    height:800px;
+    height:900px;
     color:black;
     border: 1px solid transparent;
 }
@@ -91,6 +92,8 @@
 .first Button {
     color: white;
     font-size: 20px;
+    background-color: transparent;
+    border: 0px;
 }
 
 .second Button {

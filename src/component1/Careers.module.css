@@ -8,6 +8,7 @@
     color:white;
     display: flex;
     font-family: Roboto, sans-serif;
+    margin-left: -50px;
 }
 
 .container ul{
@@ -30,6 +31,7 @@
 
 .con {
     float: left;
+    margin-left: -30px;
 }
 
 .con input {
@@ -83,17 +85,17 @@
 
 .con img {
     float: right;
+    margin-left: 100px;
 }
 
 .mid {
     display: flex;
     justify-content: space-between;
-    margin-right: -30px;
+    margin-right: 10px;
 }
 
 .container h1 {
-    font-size: 64px;
-    margin-left: -70px;
+    font-size: 55px;
     margin-top: -50px;
 }
 
@@ -103,6 +105,7 @@
 
 .right {
     margin-top: -40px;
+    margin-left: 40px;
 }
 
 .right h6{

@@ -16,9 +16,8 @@ const Why2 = () => {
             confirmButtonText: 'Yes',
         }).then((result) => {
             if (result.isConfirmed) {
-                Swal.fire('Success')
             } else if (result.isDenied) {
-                Swal.fire('Failed')
+                Swal.fire('Denial is not an option')
             }
         })
     }
